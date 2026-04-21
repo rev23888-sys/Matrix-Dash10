@@ -1,0 +1,10 @@
+{
+  "short_name": "Matrix Dashboard",
+  "name": "Matrix Bot Dashboard",
+  "description": "Manage and configure Matrix Bot for your Discord servers",
+  "icons": [],
+  "start_url": "/user/home",
+  "display": "standalone",
+  "theme_color": "#7551FF",
+  "background_color": "#0F1117"
+}
